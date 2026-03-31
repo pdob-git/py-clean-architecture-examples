@@ -118,3 +118,9 @@ Each example is self-contained and includes a `README.md` with setup and usage i
 - [x] Write a concise summary of Clean Architecture principles for the introduction. See [Core Principles](./doc/principles.md).
 - [x] Provide an example of a simple GUI application using Clean Architecture.
 - [x] Add more advanced examples (e.g., microservices, event-driven, or async patterns).
+
+---
+
+## This Fork changes
+
+- Added architecture tests to [example_1_user_creation](./example_1_user_creation)
