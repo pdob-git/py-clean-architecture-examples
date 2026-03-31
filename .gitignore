@@ -87,3 +87,6 @@ venv/
 
 # local memory files
 .memory/
+
+# JetBrains IDE - PyCharm
+.idea/

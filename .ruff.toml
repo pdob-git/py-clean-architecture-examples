@@ -61,6 +61,9 @@ ignore = [
     "T201", # print statements
 ]
 
+[lint.per-file-ignores]
+"**/tests/**" = ["S101"]
+
 [format]
 # Like Black, use double quotes for strings.
 quote-style = "double"
